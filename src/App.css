@@ -777,9 +777,9 @@ a:hover {
 
 .table-row__nav {
     position: absolute;
-    right: 0;
+    left: 0;
     top: 0;
-    width: 90px;
+    width: calc(100vw - 70px);
     height: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2055,5 +2055,8 @@ a:hover {
 .login .fg input, .login .my-select__show {
     background-color: #f2f4ff
 }
-
+#root,
+.App{
+    height: 100vh;
+}
 /*# sourceMappingURL=../sourcemaps/style.min.css.map */
