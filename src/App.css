@@ -1110,6 +1110,11 @@ a:hover {
     justify-content: unset
 }
 
+.table__input{
+    position: relative;
+    z-index: 5;
+}
+
 .table211 .table__col1 .table__subcol-big:nth-child(3) {
     width: 110px
 }
