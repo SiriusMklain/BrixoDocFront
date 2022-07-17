@@ -143,6 +143,15 @@ const Table = function () {
                         <Line/>
                         <Line/>
                         <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
+                        <Line/>
                     </tbody>
                 </table>
             </div>

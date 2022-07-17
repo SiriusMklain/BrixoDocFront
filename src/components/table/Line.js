@@ -1,6 +1,7 @@
 import React from "react";
 
 import check2 from '../../img/check2.svg'
+import close from '../../img/close.svg'
 
 const List = function () {
     return (
@@ -89,7 +90,7 @@ const List = function () {
                         <img src={check2} alt=""/>
                     </div>
                     <div className="table__subcol-small">
-                        <img src="img/close.svg" alt=""/>
+                        <img src={close} alt=""/>
                     </div>
                     <div className="table__subcol-small">
                         <img src={check2} alt=""/>
